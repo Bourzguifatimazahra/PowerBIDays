@@ -168,32 +168,9 @@ Créer un tableau de bord interactif sous **Microsoft Power BI** pour analyser l
 ---
 
 ## 👨‍💻 **Auteur**
-**Nom :** [Votre Nom]  
-**Formation :** Power BI – Research & Practice  
-**Date de Soumission :** 28 Janvier 2026  
-**Email :** [votre.email@example.com](mailto:votre.email@example.com)
+**Nom :** Bourzgui Fatima Zahra    
+ 
 
----
-
-## 📜 **Licence**
-Ce projet est destiné à un **usage académique et démonstratif**.  
-Les données sont basées sur le jeu de données **AdventureWorks** de Microsoft, modifiées à des fins pédagogiques.
-
----
-
-## 🔗 **Liens Utiles**
-- [Documentation Power BI](https://docs.microsoft.com/power-bi/)
-- [AppSource Power BI](https://appsource.microsoft.com/marketplace/apps?product=power-bi)
-- [AdventureWorks Dataset](https://github.com/microsoft/powerbi-desktop-samples)
-
----
-
-## ⭐ **Support**
-Si vous rencontrez des problèmes ou avez des questions :
-1. Consultez la documentation dans `/Documentation/`
-2. Ouvrez une **Issue** sur GitHub
-3. Contactez l'auteur par email
-
----
+ 
 
 **✨ Merci d'utiliser ce tableau de bord Power BI ! ✨**
